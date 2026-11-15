@@ -313,31 +313,31 @@ module.exports = {
      * @description Default bot profile image path/URL
      * @type {string}
      */
-    IMAGE_PATH: process.env.IMAGE_PATH || 'https://i.ibb.co/tPBqm8Pj/file-00000000faa8820892863f11bf1c1adc.png',
+    IMAGE_PATH: process.env.IMAGE_PATH || 'https://i.ibb.co/KdWkT2Q/Screenshot-20261107-144005.jpg',
 
     /**
      * @description WhatsApp channel link for updates
      * @type {string}
      */
-    CHANNEL_LINK: process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306',
+    CHANNEL_LINK: process.env.CHANNEL_LINK || 'https://whatsapp.com/channel/0029VbALM7n6xCSTtuXdmb3O',
 
     /**
      * @description WhatsApp group invite link
      * @type {string}
      */
-    GROUP_LINK: process.env.GROUP_LINK || 'https://chat.whatsapp.com/KCGPeSBdN4d0E7qfQptONd',
+    GROUP_LINK: process.env.GROUP_LINK || '',
 
     /**
      * @description Owner WhatsApp link
      * @type {string}
      */
-    OWNER_LINK: process.env.OWNER_LINK || 'https://wa.me/923237045919',
+    OWNER_LINK: process.env.OWNER_LINK || 'https://wa.me/923459277183',
 
     /**
      * @description Repository link
      * @type {string}
      */
-    REPO: process.env.REPO || 'https://github.com/Arslan-MD/Mishu-MD',
+    REPO: process.env.REPO || '',
 
     // ═══════════════════════════════════════════
     //  🐛 DEBUG & LOGGING
