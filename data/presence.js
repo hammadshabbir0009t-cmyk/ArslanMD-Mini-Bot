@@ -1,6 +1,6 @@
 // ============================================
 // 📁 data/presence.js - PRESENCE CONTROL
-// 👑 Developer: ᴀʀꜱʟᴀɴ-ᴍᴅ
+// 👑 Developer: ᴍʀ ᴀʟᴏɴᴇ-ᴍᴅ
 // 🔥 Auto typing, recording, online status
 // ============================================
 
