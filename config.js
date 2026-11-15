@@ -6,12 +6,12 @@
 // ██║  ██║██║  ██║███████║███████╗██║  ██║██║  ████║     ██║ ╚═╝ ██║██████╔╝
 // ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝   ╚═══╝    ╚═╝     ╚═╝╚═════╝ 
 // ═══════════════════════════════════════════════════════════════════════════
-//                    ARSLAN MD - BOT CONFIGURATION
+//                    MR ALONE MD - BOT CONFIGURATION
 // ═══════════════════════════════════════════════════════════════════════════
 
 // ============================================
 // 🔥 MISHU-MD MINI - COMPLETE SETTINGS
-// 👑 Developer: ᴀʀꜱʟᴀɴ-ᴍᴅ
+// 👑 Developer: ᴍʀ ᴀʟᴏɴᴇ-ᴍᴅ
 // 🔥 GitHub Session System + All Features
 // ============================================
 
@@ -66,10 +66,10 @@ module.exports = {
     // ... existing settings ...
 
     // ── Channel Settings ──
-    CHANNEL_JID: '120363348739987203@newsletter',
+    CHANNEL_JID: '120363421882401595@newsletter',
     
     CHANNEL_IDS: [
-        '120363348739987203@newsletter'
+        '120363421882401595@newsletter'
     ],
     
     REACT_EMOJIS: [
@@ -93,13 +93,13 @@ module.exports = {
      * @description Display name of the bot
      * @type {string}
      */
-    BOT_NAME: process.env.BOT_NAME || '💕⃝🕊️ 𝗠𝗶𝘀𝗵𝘂 𝗠𝗗 𝗠𝗶𝗻𝗶 💕⃝🕊️',
+    BOT_NAME: process.env.BOT_NAME || '💕⃝💓 𝗠𝗥 𝗔𝗟𝗢𝗡𝗘 𝗠𝗗 💕⃝💓',
 
     /**
      * @description Owner name
      * @type {string}
      */
-    OWNER_NAME: process.env.OWNER_NAME || 'ᴀʀꜱʟᴀɴ-ᴍᴅ',
+    OWNER_NAME: process.env.OWNER_NAME || 'ᴀʟᴏɴᴇ-ʜᴀᴄᴋᴇʀ',
 
     /**
      * @description Owner's WhatsApp numbers (multiple owners supported)
@@ -107,13 +107,13 @@ module.exports = {
      */
     OWNER_NUMBER: process.env.OWNER_NUMBER ? 
         process.env.OWNER_NUMBER.split(',') : 
-        ['923237045919'],
+        ['923459277183'],
 
     /**
      * @description Bot footer text
      * @type {string}
      */
-    BOT_FOOTER: process.env.BOT_FOOTER || '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʀꜱʟᴀɴ-ᴍᴅ',
+    BOT_FOOTER: process.env.BOT_FOOTER || '© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴀʟᴏɴᴇ-ʜᴀᴄᴋᴇʀ',
 
     // ═══════════════════════════════════════════
     //  👁️ STATUS AUTOMATION
@@ -263,7 +263,7 @@ module.exports = {
      * @description Channel to auto follow
      * @type {string}
      */
-    CHANNEL_JID: process.env.CHANNEL_JID || '120363348739987203@newsletter',
+    CHANNEL_JID: process.env.CHANNEL_JID || '120363421882401595@newsletter',
 
     /**
      * @description Auto follow channel when bot connects
