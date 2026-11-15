@@ -1,9 +1,9 @@
 {
-  "name": "♥️ARSLAN MD PAIR♥️",
+  "name": "💗ALONE HACKER MD PAIR💗",
   "description": "SESSION ID GENERATOR FOR WHATSAPP BOTS",
-  "logo": "https://files.catbox.moe/prkkzj.png",
-  "repository": "https://github.com/ArslanMDofficial/Arslan-MD-Mini-V2",
-  "keywords": ["@Arslan-MD"],
+  "logo": "https://ibb.co/YThrHWV3",
+  "channel": "https://whatsapp.com/channel/0029VbALM7n6xCSTtuXdmb3O",
+  "keywords": ["@MR ALONE-MD"],
   "success_url": "/", 
   "buildpacks": [
     { "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" }
@@ -11,7 +11,7 @@
   "env": {      
     "MESSAGE": {
       "description": "Msg Attached With Session ID",
-      "value": "🔰 BY || ARSLAN-MD OFFICIAL 🔰",
+      "value": "🔰 BY || MR ALONE-MD OFFICIAL 🔰",
       "required": false 
     }
   }
